@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "CC0 All rights Reversed. Made by <a href="https://kris.fail">kris.fail</a>",
+  "footer": "CC0 All rights Reversed. Made by <a href='https://kris.fail'>kris.fail</a>",
   "usage-stats": false
 }
